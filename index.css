@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('https://denzildiniz73.github.io/my-font-hosting/centurygothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Century Gothic bold';
+    src: url('https://denzildiniz73.github.io/my-font-hosting/centurygothic_bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Example usage */
+body {
+    font-family: 'Century Gothic', sans-serif;
+}
